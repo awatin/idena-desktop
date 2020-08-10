@@ -322,5 +322,12 @@
   "Run the built-in node": "Run the built-in node",
   "Idena Node is starting...": "Idena Node is starting...",
   "Your built-in node is failed": "Your built-in node is failed",
-  "Restart built-in node": "Restart built-in node"
+  "Restart built-in node": "Restart built-in node",
+  "Withraw stake, iDNA": "Withraw stake, iDNA",
+  "Receive iDNA’s": "Receive iDNA’s",
+  "Send iDNA’s": "Send iDNA’s",
+  "Amount, iDNA": "Amount, iDNA",
+  "Fee, iDNA": "Fee, iDNA",
+  "You’re about to send iDNA from your wallet to the following address": "You’re about to send iDNA from your wallet to the following address",
+  "{{numBlocks}} blocks left": "{{numBlocks}} blocks left"
 }
